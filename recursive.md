@@ -1,4 +1,5 @@
 Fibonacci 
+```
 def fib(i): 
     '''
     Function to give the number of an index from the fibbonacci sequence
@@ -17,7 +18,7 @@ def fib(i):
         return (fib(i-1) + fib(i-2))
 #Testcase
 print(fib(9)) 
-
+```
 Fibonacci with Input
 def fibinput(): 
     '''
